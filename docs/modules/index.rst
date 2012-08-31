@@ -9,8 +9,9 @@ There are a number of modules that make up the BuildJS Tool Suite.  Each of thes
 .. toctree::
    :maxdepth: 2
 
-   interleave/index
-   rigger/index
+   interleave
+   rigger
    findme
+   resolveme
 
 .. include:: ../links.txt

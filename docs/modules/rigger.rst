@@ -1,17 +1,17 @@
-.. _findme:
+.. _rigger:
 
 ======
-FindMe
+Rigger
 ======
 
 To be completed.
 
 .. admonition:: Installation
 
-	``npm install findme``
+	``npm install rigger``
 
 .. admonition:: Source Code
 
-	https://github.com/buildjs/findme
+	https://github.com/buildjs/rigger
 
 .. include:: ../links.txt
