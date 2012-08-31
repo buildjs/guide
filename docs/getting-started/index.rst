@@ -26,9 +26,4 @@ A Simple Build
 
 To be completed.
 
-Resolving Depedencies
-=====================
-
-To be completed.
-
-.. include:: links.txt
+.. include:: ../links.txt

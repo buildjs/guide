@@ -11,7 +11,8 @@ BuildJS is a suite of `Node.js`_ libraries and command-line tools that can be us
 .. toctree::
    :maxdepth: 2
 
-   getting-started
+   getting-started/index
+   advanced/index
    design-goals
    modules/index
    partner-tools/index

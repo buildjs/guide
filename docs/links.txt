@@ -1,2 +1,11 @@
 .. _Node.js: http://nodejs.org
 .. _mailing list: https://groups.google.com/forum/#!forum/buildjs
+.. _jQuery: http://jquery.org
+.. _CouchDB: http://couchdb.apache.org
+.. _Underscore: http://underscorejs.org
+.. _CommonJS: http://wiki.commonjs.org/wiki/Modules/1.1
+.. _NPM: https://npmjs.org/
+.. _AMD: https://github.com/amdjs/amdjs-api/wiki
+.. _UMD: https://github.com/umdjs/umd
+.. _Harmony Modules: http://wiki.ecmascript.org/doku.php?id=harmony:modules
+.. _A Knight's Tale: http://www.imdb.com/title/tt0183790/

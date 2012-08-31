@@ -11,5 +11,6 @@ There are a number of modules that make up the BuildJS Tool Suite.  Each of thes
 
    interleave/index
    rigger/index
+   findme
 
 .. include:: ../links.txt
