@@ -1,0 +1,20 @@
+{
+  "name": "buildjs-guide",
+  "description": "BuildJS Tool Suite Documentation",
+  "author": "Damon Oehlman <damon.oehlman@sidelab.com>",
+  "tags": [
+    "build"
+  ],
+  "private": "true",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/buildjs/guide.git"
+  },
+  "bugs": {
+    "url": "http://github.com/buildjs/guide/issues"
+  },
+  "contributors": []
+}
