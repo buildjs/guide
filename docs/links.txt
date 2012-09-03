@@ -9,3 +9,10 @@
 .. _UMD: https://github.com/umdjs/umd
 .. _Harmony Modules: http://wiki.ecmascript.org/doku.php?id=harmony:modules
 .. _A Knight's Tale: http://www.imdb.com/title/tt0183790/
+
+.. _grunt: https://github.com/cowboy/grunt
+.. _grunt-rigger: https://github.com/DamonOehlman/grunt-rigger
+
+.. _Derick Bailey: http://twitter.com/derickbailey
+
+.. _String.trim: https://developer.mozilla.org/en-US/docs/JavaScript/Reference/Global_Objects/String/Trim
